@@ -57,11 +57,4 @@
 ###
 
 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redaFalah&layout=compact&theme=buefy&langs_count=5&locale=en" alt="Top Languages" />
-</div>
 
----
-###
-
-###
