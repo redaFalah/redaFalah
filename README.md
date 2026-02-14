@@ -5,10 +5,6 @@
   <img src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="280">
 </p>
 
-<p align="center">
-  <samp>Building robust Java applications and contributing to the open-source community.</samp>
-</p>
-
 <div align="center">
   <a href="https://github.com/redaFalah"><img src="https://img.icons8.com/material-outlined/32/000000/github.png" alt="Github"/></a>
   <a href="https://www.linkedin.com/in/redaowda"><img src="https://img.icons8.com/ios-filled/32/000000/linkedin.png" alt="LinkedIn"/></a>
@@ -17,9 +13,6 @@
 
 <br/>
 
-<p align="center">
-  <samp>Check out my repos below ⬇️</samp>
-</p>
 
 
 
