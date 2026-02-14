@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Reda Owda</h1>
-<h3 align="center"><samp> Java Developer ☕ </samp></h3>
+<h3 align="center"><samp> Java Developer ☕ and Computer System Engineering </samp></h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="280">
@@ -16,11 +16,6 @@
 </div>
 
 <br/>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redaFalah&show_icons=true&theme=dracula" alt="Reda's GitHub Stats" />
-</p>
 
 <p align="center">
   <samp>Check out my repos below ⬇️</samp>
